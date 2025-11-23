@@ -16,3 +16,5 @@ Create_command say_hello {
 }
 Button   Creates a button, for eg: Button ID:sayhello TEXT:"Say Hello", COMMAND:say_hello
 That's all you need to know!
+
+Goto https://github.com/User123456789-0/TheCodingLanguage/releases to download the lancher file
